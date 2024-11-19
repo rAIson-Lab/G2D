@@ -1,0 +1,5 @@
+For training teacher model use:
+    CUDA_VISIBLE_DEVICES=0 python teacher.py
+
+For training student model use:
+    CUDA_VISIBLE_DEVICES=2 python student.py

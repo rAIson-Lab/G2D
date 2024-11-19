@@ -1,3 +1,10 @@
+# Model weights
+*.pth
+scores/**/*.csv
+runs/*
+*.png
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
