@@ -1,6 +1,6 @@
 # G<sup>2</sup>D-Boosting-Multimodal-Learning-with-Gradient-Guided-Distillation
 
-This is the official PyTorch implementation of the paper G<sup>2</supD.
+This is the official PyTorch implementation of the paper G<sup>2</sup>D.
 
 
 ## Training
