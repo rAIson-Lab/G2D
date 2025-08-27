@@ -2,6 +2,7 @@
 
 This is the official PyTorch implementation of the paper G<sup>2</sup>D.
 
+**Accepted by: ICCV 2025**
 
 ## Training
 
@@ -26,3 +27,15 @@ python teacher.py
 ```python
 python student.py
 ```
+
+## Citation
+```
+@misc{rakib2025g2dboostingmultimodallearning,
+      title={G$^{2}$D: Boosting Multimodal Learning with Gradient-Guided Distillation}, 
+      author={Mohammed Rakib and Arunkumar Bagavathi},
+      year={2025},
+      eprint={2506.21514},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.21514}, 
+}
